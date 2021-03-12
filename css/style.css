@@ -564,10 +564,11 @@ section.work .wrapper .work_wrapper .work_card .work_skills span.redux{
 background: var(--redux);
 }
 
-section.work .wrapper .work_wrapper .work_card .work_description p{
+section.work .wrapper .work_wrapper .work_card .work_description ul li{
     color: var(--ternary);
     margin-top: 8px;
     font-size: 15px;
+    margin-left: 20px;
 }
 
 /* about section  */
